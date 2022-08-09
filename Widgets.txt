@@ -1,0 +1,7 @@
+Cor: #ff6a00
+
+Relogio digital com localização:
+https://ibooked.com.br/?page=time_widget_customize&type=3&city_id=57363
+
+Previsão do tempo com temp. minima e temp. maxima (laranja, claro, em todos):
+https://ibooked.com.br/?page=weather_widget_customize&type=26&cityID=57363&cmetric=1&gparams=26
